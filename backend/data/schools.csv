@@ -1,0 +1,2 @@
+school_id,school_name,address,start_time,end_time,total_students,disabilities_supported,contact_person,contact_phone,contact_email,after_school_program,after_school_program_details,lat,lng
+4aefbdd8-0ed0-46b2-93bd-f6bbdfed2f95,Hardy Memorial Primary School,"22 Legacorry Park, Richhill, Armagh, BT61, Northern Ireland",17:20:00,17:20:00,1,Dyslexia,Name,123456789123,name@gmail.com,Yes,qwertyuiop,54.371592,-6.549386

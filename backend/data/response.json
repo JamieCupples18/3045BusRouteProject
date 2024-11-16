@@ -1,0 +1,57 @@
+{
+    "id": "S4edYRN3",
+    "count": 10,
+    "feasible": true,
+    "route": {
+        "0": {
+            "name": "22 Legacorry Park, Richhill, Armagh, BT61, Northern Ireland",
+            "arrival": 0,
+            "distance": 0
+        },
+        "1": {
+            "name": "21 Angela Crescent, Richhill, County Armagh, Northern Ireland, BT619JP",
+            "arrival": 2,
+            "distance": 1.1
+        },
+        "2": {
+            "name": "37 Moss Park, Richhill, Armagh, BT61 9PT, Northern Ireland",
+            "arrival": 8,
+            "distance": 2.1
+        },
+        "3": {
+            "name": "5 Castle Drive, Richhill, Armagh, BT61 9QH, Northern Ireland",
+            "arrival": 14,
+            "distance": 2.9
+        },
+        "4": {
+            "name": "20 Millview Park, Richhill, Armagh, BT61 9JS, Northern Ireland",
+            "arrival": 22,
+            "distance": 4.4
+        },
+        "5": {
+            "name": "48 Sleepy Valley Avenue, Richhill, Armagh, BT61 9QP, Northern Ireland",
+            "arrival": 28,
+            "distance": 5.1
+        },
+        "6": {
+            "name": "8 Deans Grange, Richhill, Armagh, BT61 9NL, Northern Ireland",
+            "arrival": 33,
+            "distance": 5.5
+        },
+        "7": {
+            "name": "6 Woodlawn Heights, Richhill, Armagh, BT61 9PQ, Northern Ireland",
+            "arrival": 41,
+            "distance": 7
+        },
+        "8": {
+            "name": "15 Beechwood Manor, Richhill, Armagh, BT61 9JL, Northern Ireland",
+            "arrival": 47,
+            "distance": 7.8
+        },
+        "9": {
+            "name": "22 Legacorry Park, Richhill, Armagh, BT61, Northern Ireland",
+            "arrival": 52,
+            "distance": 7.9
+        }
+    }
+}
