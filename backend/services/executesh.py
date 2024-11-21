@@ -11,8 +11,8 @@ def load_csv_data(filename):
 
 def execute_curl_command():
     # Load school and student data from CSV files
-    schools = load_csv_data('../backend/data/schools.csv')  # Adjust path as necessary
-    students = load_csv_data('../backend/data/students.csv')  # Adjust path as necessary
+    schools = load_csv_data('../backend/data/schools.csv')
+    students = load_csv_data('../backend/data/students.csv')  
 
     # Prepare the list of locations
     locations = []
